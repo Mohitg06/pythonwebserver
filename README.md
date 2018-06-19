@@ -10,5 +10,6 @@ To run tests just run nose2 on terminal.
 
 Docker file created and used ubuntu as base image.
 
+Installed Goss and Dgoss but seeing issues while running them, ( cant locate goss file even though its installed)
 
 Set up of concourse CI in Progress
